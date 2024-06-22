@@ -1,0 +1,16 @@
+altgraph==0.17.4
+et-xmlfile==1.1.0
+numpy==2.0.0
+openpyxl==3.1.4
+packaging==24.1
+pandas==2.2.2
+pyinstaller==6.8.0
+pyinstaller-hooks-contrib==2024.7
+PyQt5==5.15.10
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.13.0
+python-dateutil==2.9.0.post0
+pytz==2024.1
+setuptools==70.1.0
+six==1.16.0
+tzdata==2024.1
